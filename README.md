@@ -1,2 +1,2 @@
-# Receira-de-bolo
+# Receita-de-bolo
 Site de bolo de chocolate
